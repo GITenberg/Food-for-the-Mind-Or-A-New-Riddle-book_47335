@@ -1,10 +1,16 @@
 _repo: Food-for-the-Mind-Or-A-New-Riddle-book_47335
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47335-h/images/cover.jpg
 creator:
   author:
     agent_name: John-the-Giant-Killer
     gutenberg_agent_id: '44264'
     url: http://www.gutenberg.org/2009/agents/44264
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47335#Food-for-the-Mind-Or-A-New-Riddle-book
 gutenberg_issued: '2014-11-12'
 gutenberg_type: Text
 identifiers:
